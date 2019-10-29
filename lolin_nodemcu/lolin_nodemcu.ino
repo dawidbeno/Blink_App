@@ -20,7 +20,7 @@
 const char* ssid = ""; // wifi SSID
 const char* passwd = ""; // wifi password
 unsigned int udpPort = 5005;
-char targetIP[15] = "192.168.1.104\0"; // local IP of NodeMCU
+char targetIP[15] = "192.168.1.104\0"; // local IP of NodeMCU (change if needed)
 
 // Globals
 WiFiUDP Udp;
