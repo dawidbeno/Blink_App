@@ -1,4 +1,6 @@
 # Blink_App
+[Slovak](README.sk.md) version
+
 LED strip controlled by Android app. 
 
 ## Android app
